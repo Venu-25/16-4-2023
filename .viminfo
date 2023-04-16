@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1681635497,,"wq"
+|2,0,1681635883,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +25,31 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/f1
-|4,48,2,0,1681635497,"~/f1"
+'0  1  18  ~/gitproject/f2
+|4,48,1,18,1681635883,"~/gitproject/f2"
+'1  2  0  ~/f1
+|4,49,2,0,1681635497,"~/f1"
 
 # Jumplist (newest first):
+-'  1  18  ~/gitproject/f2
+|4,39,1,18,1681635883,"~/gitproject/f2"
+-'  2  0  ~/f1
+|4,39,2,0,1681635497,"~/f1"
 -'  2  0  ~/f1
 |4,39,2,0,1681635497,"~/f1"
 -'  1  0  ~/f1
 |4,39,1,0,1681635474,"~/f1"
+-'  1  0  ~/f1
+|4,39,1,0,1681635474,"~/f1"
 
 # History of marks within files (newest to oldest):
+
+> ~/gitproject/f2
+	*	1681635880	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
 
 > ~/f1
 	*	1681635494	0
